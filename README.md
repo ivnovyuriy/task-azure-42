@@ -4,5 +4,11 @@
   •  Provide the highest possible redundancy for the documents 
   •  Minimize storage access costs
 
+![storage](https://github.com/ivnovyuriy/task-azure-42/blob/abbdf058b0d51c60b47819bb69c354c4c1e62574/screenshots/azure_storage.png)
+
+![windows_server](https://github.com/ivnovyuriy/task-azure-42/blob/abbdf058b0d51c60b47819bb69c354c4c1e62574/screenshots/windows_server.png)
+
 2. ** You need to automate tasks utilising IaaC tools of your choice (For e.g. Terraform).
+
+![iaac](https://github.com/ivnovyuriy/task-azure-42/blob/abbdf058b0d51c60b47819bb69c354c4c1e62574/screenshots/IaaC.png)
 
